@@ -8,28 +8,28 @@ const services = [
     num: "01",
     title: "Web Development",
     description:
-      "Ea do veniam esse dolor pariatur eu dolor id ullamco sunt ullamco amet ullamco ex.Qui fugiat veniam velit culpa irure.",
+      "I specialize in building responsive, user-focused web applications using modern technologies like JavaScript, React, Node.js, and more. With a strong emphasis on clean code, performance, and accessibility, I craft digital experiences that are both functional and engaging—from single-page applications to full-stack solutions",
     href: "",
   },
   {
     num: "02",
     title: "Frontend Development",
     description:
-      "Ea do veniam esse dolor pariatur eu dolor id ullamco sunt ullamco amet ullamco ex.Qui fugiat veniam velit culpa irure.",
+      "I create intuitive, responsive interfaces using modern frameworks like React and Vue. With a focus on performance, accessibility, and pixel-perfect design, I turn complex ideas into seamless user experiences that work across all devices.",
     href: "",
   },
   {
     num: "03",
     title: "Backend Development",
     description:
-      "Ea do veniam esse dolor pariatur eu dolor id ullamco sunt ullamco amet ullamco ex.Qui fugiat veniam velit culpa irure.",
+      "I build robust, scalable backend systems using technologies like Node.js, Express, and PostgreSQL. My focus is on creating secure APIs, efficient data handling, and seamless integration with frontend applications to deliver fast, reliable web experiences.",
     href: "",
   },
   {
     num: "04",
     title: "API Development",
     description:
-      "Ea do veniam esse dolor pariatur eu dolor id ullamco sunt ullamco amet ullamco ex.Qui fugiat veniam velit culpa irure.",
+      "I build robust, scalable backend systems using technologies like Node.js, Express, Python, and Django. My focus is on creating secure APIs, efficient data handling, and seamless integration with frontend applications to deliver fast, reliable web experiences",
     href: "",
   },
 ];
