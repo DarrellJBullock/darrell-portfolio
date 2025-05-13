@@ -25,9 +25,9 @@ const projects = [
   {
     num: "01",
     category: "frontend",
-    title: "project 1",
+    title: "Gamer Hub",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate magnam modi.",
+      "A gamer hub that lists video games and filters by console and type of game.",
     stack: [{name: "React.js"}, {name: "Next.js"}, { name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
     image: { work1 },
     live: "https://game-hub-kappa-mauve.vercel.app",
@@ -35,14 +35,14 @@ const projects = [
   },
   {
     num: "02",
-    category: "fullstack",
+    category: "backend",
     title: "project 2",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate magnam modi.",
-    stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Node.js" }],
-    image: { work1 },
+      "Simple user CRUD API using Python with Django.",
+    stack: [{ name: "Python" }, { name: "Django" }],
+    image: { },
     live: "",
-    github: "",
+    github: "https://github.com/DarrellJBullock/django-crud",
   },
 ];
 
