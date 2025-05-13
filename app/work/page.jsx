@@ -28,7 +28,7 @@ const projects = [
     title: "project 1",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate magnam modi.",
-    stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
+    stack: [{name: "React.js"}, {name: "Typescript"}, {name: "Next.js"}, { name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
     image: { work1 },
     live: "",
     github: "",
