@@ -30,8 +30,8 @@ const projects = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate magnam modi.",
     stack: [{name: "React.js"}, {name: "Typescript"}, {name: "Next.js"}, { name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
     image: { work1 },
-    live: "",
-    github: "",
+    live: "https://darrell-portfolio-dun.vercel.app",
+    github: "https://github.com/DarrellJBullock/game-hub",
   },
   {
     num: "02",
