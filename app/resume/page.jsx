@@ -61,6 +61,11 @@ const experience = {
   description: "Test",
   items: [
     {
+      company: "Code Differently",
+      position: "Technology Lead",
+      duration: "2025 - Present",
+    },
+    {
       company: "Jefferson Healthcare",
       position: "Software Engineering Consultant",
       duration: "2023 - 2024",
