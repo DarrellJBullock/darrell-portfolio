@@ -11,6 +11,8 @@ import {
 } from "react-icons/fa";
 
 import {
+  SiFlask,
+  SiDjango,
   SiTailwindcss,
   SiNextdotjs,
   SiMicrosoftsqlserver,
@@ -22,7 +24,7 @@ import {
 
 const about = {
   title: "About me",
-  description: "Test",
+  description: "",
   info: [
     {
       fieldName: "Name",
@@ -86,7 +88,7 @@ const experience = {
 const education = {
   icon: "/assets/resume/cap.svg",
   title: "My education",
-  description: "Test",
+  description: "",
   items: [
     {
       institution: "Howard University",
@@ -119,6 +121,14 @@ const skills = {
     {
       icon: <FaPython />,
       name: "python",
+    },
+    {
+      icon: <SiDjango />,
+      name: "django",
+    },
+    {
+      icon: <SiFlask />,
+      name: "flask",
     },
     {
       icon: <FaNodeJs />,
